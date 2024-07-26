@@ -44,7 +44,7 @@ This function accepts two numbers: `min` and `max`. It returns a randomly genera
 This function accepts the name of a show (such as "The Witcher") and displays it on the page. It uses the _exact formatting_ of the strings in the arrays to find and display the correct show. Try running `displayShow("The Witcher")` and `displayShow("The Queen's Gambit")` in the console and check the page to see what happens.
 
 
-## Deliverable
+
 
 Below are the requirements for each of the three functions you need to finish in `script.js`. 
 
